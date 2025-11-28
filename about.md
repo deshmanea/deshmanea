@@ -7,7 +7,7 @@ I’m **Abhijit Deshmane**, a curiously exploring Machine Learning deeply — fr
 - Prefer intuition over memorization  
 - Hands-on learner (code → break → fix)  
 
-
+---
 ### 🧠 Interests
 - Deep learning mathematics  
 - NLP & transformers  
