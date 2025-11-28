@@ -20,7 +20,6 @@
 - *AI*
   - *AI Engineering* - Chip Huyen
   - *Artificial Intelligence - A Modern Approach* - Stuart J. Russell and Peter Norvig
-    
 
 - *ML*
   - *Pattern Recognition and Machine Learning* - Christopher Bishop
@@ -39,10 +38,9 @@
 ---
 
 ## 📄 Papers
-- [arXiv]https://arxiv.org/
+- [arXiv](https://arxiv.org/)
 - [Google research](https://research.google/pubs/)
-- 
-
+- [NIPS](https://papers.nips.cc/)
 
 ---
 
