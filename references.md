@@ -54,6 +54,7 @@
 - [Convex Optimization -Stephen Boyd](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h)
 - [Statistics](https://www.youtube.com/@very-normal)
 - [Probability, Math, Stats, NN and more](https://www.youtube.com/@Eigensteve)
+- [Real Analysis](https://www.youtube.com/playlist?list=PL04BA7A9EB907EDAF)
 
 ---
 
