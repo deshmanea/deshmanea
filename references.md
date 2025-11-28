@@ -31,4 +31,8 @@
 
 ---
 
-I will keep expanding as my journey continues.                                                  [Home](./index.md)
+I will keep expanding as my journey continues.
+
+---
+
+[Home](./index.md)
