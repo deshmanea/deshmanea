@@ -39,9 +39,10 @@
 ---
 
 ## 📄 Papers
-- Attention Is All You Need (Vaswani et al.)
-- Adam: A Method for Stochastic Optimization
-- BERT: Pre-training of Deep Bidirectional Transformers
+- [arXiv]https://arxiv.org/
+- [Google research](https://research.google/pubs/)
+- 
+
 
 ---
 
