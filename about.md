@@ -18,3 +18,7 @@ I’m **Abhijit Deshmane**, a curiously exploring Machine Learning deeply — fr
 ---
 
 This site is where I document everything I learn.
+
+---
+
+[Home](./index.md)
