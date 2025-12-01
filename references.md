@@ -55,6 +55,7 @@
 - [Statistics](https://www.youtube.com/@very-normal)
 - [Probability, Math, Stats, NN and more](https://www.youtube.com/@Eigensteve)
 - [Real Analysis](https://www.youtube.com/playlist?list=PL04BA7A9EB907EDAF)
+- [Computer vision](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 
 ---
 
